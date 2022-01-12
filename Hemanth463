@@ -9,13 +9,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="shortcut icon" href="/assets/images/share.jpeg" />
     <!-- Social share meta tags -->
-    <meta property="og:title" content="{{page.title}} - T.H.Arjun" />
+    <meta property="og:title" content="{{page.title}} - Hemanth" />
     <meta property="og:description" content="{{page.description}}" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="/assets/images/share.jpeg" />
-    <meta property="og:site_name" content="T.H.Arjun" />
+    <meta property="og:site_name" content="Hemanth" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="{{page.title}}-T.H.Arjun" />
+    <meta name="twitter:title" content="{{page.title}}-Hemanth" />
     <meta name="twitter:description" content="{{page.description}}" />
     <meta name="twitter:image:src" content="/assets/images/share.jpeg" />
     <!-- End social share meta tags -->
@@ -31,7 +31,7 @@
 config=TeX-AMS-MML_HTMLorMML"
     ></script>
 
-    <title>{{page.title}} - T.H.Arjun</title>
+    <title>{{page.title}} - Hemanth</title>
     <meta name="description" content="{{page.description}}" />
   </head>
   <body class="dark">
@@ -83,7 +83,7 @@ config=TeX-AMS-MML_HTMLorMML"
           <div class="col-2">
             <li>
               <a
-                href="mailto:arjun.thekoot@research.iiit.ac.in"
+                href="mailto:hemanthgoud431@gmail.com"
                 title="Email"
                 target="_blank"
                 class="type-white"
@@ -92,7 +92,7 @@ config=TeX-AMS-MML_HTMLorMML"
             </li>
             <li>
               <a
-                href="mailto:arjunth2001@gmail.com"
+                href="hemanthgoud431@gmail.com"
                 title="Email"
                 target="_blank"
                 class="type-white"
@@ -103,7 +103,7 @@ config=TeX-AMS-MML_HTMLorMML"
           <div class="col-2">
             <li>
               <a
-                href="https://www.linkedin.com/in/t-h-arjun-b39b17190"
+                href="https://www.linkedin.com/in/t-h-arjun-b"
                 title="LinkedIn"
                 target="_blank"
                 class="type-white"
@@ -143,7 +143,7 @@ config=TeX-AMS-MML_HTMLorMML"
           <div class="col-2">
             <li>
               <a
-                href="https://t.me/arjunth2001"
+                href="https://t.me/Hemanth463"
                 title="Telegram"
                 target="_blank"
                 class="type-white"
